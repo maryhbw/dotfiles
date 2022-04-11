@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maryhbw@gmail.com
+	name = Mary Ward
